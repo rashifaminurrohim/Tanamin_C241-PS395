@@ -6,4 +6,23 @@
     <string name="no_tflite_interpreter_loaded">No TFLite interpreter loaded</string>
     <string name="description_result">Description</string>
     <string name="maintenance_result">Maintenance</string>
+
+    <!--CustomEditText-->
+    <string name="password_error">Password must not be less than 8 characters</string>
+    <string name="email_error">invalid email</string>
+
+
+    <!--XML-->
+    <!--XML sign in-->
+    <string name="title_login_page">Sign In</string>
+    <string name="message_login_page">Please Sign In to continue</string>
+    <string name="message_signUp_page">Create an account to continue</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="dont_have_account">Don’t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
 </resources>
